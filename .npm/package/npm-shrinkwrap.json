@@ -1,0 +1,73 @@
+{
+  "dependencies": {
+    "cheerio": {
+      "version": "http://registry.npmjs.org/cheerio/-/cheerio-0.17.0.tgz",
+      "dependencies": {
+        "CSSselect": {
+          "version": "http://registry.npmjs.org/CSSselect/-/CSSselect-0.4.1.tgz",
+          "dependencies": {
+            "CSSwhat": {
+              "version": "http://registry.npmjs.org/CSSwhat/-/CSSwhat-0.4.7.tgz"
+            },
+            "domutils": {
+              "version": "http://registry.npmjs.org/domutils/-/domutils-1.4.3.tgz",
+              "dependencies": {
+                "domelementtype": {
+                  "version": "1.1.1"
+                }
+              }
+            }
+          }
+        },
+        "entities": {
+          "version": "http://registry.npmjs.org/entities/-/entities-1.1.1.tgz"
+        },
+        "htmlparser2": {
+          "version": "http://registry.npmjs.org/htmlparser2/-/htmlparser2-3.7.3.tgz",
+          "dependencies": {
+            "domhandler": {
+              "version": "2.2.0"
+            },
+            "domutils": {
+              "version": "1.5.0"
+            },
+            "domelementtype": {
+              "version": "1.1.1"
+            },
+            "readable-stream": {
+              "version": "1.1.13",
+              "dependencies": {
+                "core-util-is": {
+                  "version": "1.0.1"
+                },
+                "isarray": {
+                  "version": "http://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
+                },
+                "string_decoder": {
+                  "version": "0.10.31"
+                },
+                "inherits": {
+                  "version": "2.0.1"
+                }
+              }
+            },
+            "entities": {
+              "version": "1.0.0"
+            }
+          }
+        },
+        "dom-serializer": {
+          "version": "http://registry.npmjs.org/dom-serializer/-/dom-serializer-0.0.1.tgz",
+          "dependencies": {
+            "domelementtype": {
+              "version": "1.1.1"
+            }
+          }
+        },
+        "lodash": {
+          "version": "http://registry.npmjs.org/lodash/-/lodash-2.4.1.tgz"
+        }
+      }
+    }
+  }
+}
