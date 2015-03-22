@@ -1,0 +1,73 @@
+{
+  "dependencies": {
+    "cheerio": {
+      "version": "http://registry.npmjs.org/cheerio/-/cheerio-0.18.0.tgz",
+      "dependencies": {
+        "CSSselect": {
+          "version": "http://registry.npmjs.org/CSSselect/-/CSSselect-0.4.1.tgz",
+          "dependencies": {
+            "CSSwhat": {
+              "version": "http://registry.npmjs.org/CSSwhat/-/CSSwhat-0.4.7.tgz"
+            },
+            "domutils": {
+              "version": "http://registry.npmjs.org/domutils/-/domutils-1.4.3.tgz",
+              "dependencies": {
+                "domelementtype": {
+                  "version": "http://registry.npmjs.org/domelementtype/-/domelementtype-1.1.3.tgz"
+                }
+              }
+            }
+          }
+        },
+        "entities": {
+          "version": "http://registry.npmjs.org/entities/-/entities-1.1.1.tgz"
+        },
+        "htmlparser2": {
+          "version": "http://registry.npmjs.org/htmlparser2/-/htmlparser2-3.8.2.tgz",
+          "dependencies": {
+            "domhandler": {
+              "version": "http://registry.npmjs.org/domhandler/-/domhandler-2.3.0.tgz"
+            },
+            "domutils": {
+              "version": "http://registry.npmjs.org/domutils/-/domutils-1.5.1.tgz"
+            },
+            "domelementtype": {
+              "version": "http://registry.npmjs.org/domelementtype/-/domelementtype-1.1.3.tgz"
+            },
+            "readable-stream": {
+              "version": "1.1.13",
+              "dependencies": {
+                "core-util-is": {
+                  "version": "http://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz"
+                },
+                "isarray": {
+                  "version": "http://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
+                },
+                "string_decoder": {
+                  "version": "http://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz"
+                },
+                "inherits": {
+                  "version": "http://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz"
+                }
+              }
+            },
+            "entities": {
+              "version": "1.0.0"
+            }
+          }
+        },
+        "dom-serializer": {
+          "version": "http://registry.npmjs.org/dom-serializer/-/dom-serializer-0.0.1.tgz",
+          "dependencies": {
+            "domelementtype": {
+              "version": "http://registry.npmjs.org/domelementtype/-/domelementtype-1.1.3.tgz"
+            }
+          }
+        },
+        "lodash": {
+          "version": "http://registry.npmjs.org/lodash/-/lodash-2.4.1.tgz"
+        }
+      }
+    }
+  }
+}
